@@ -2,6 +2,8 @@
 
 A Claude skill that briefs you before a meeting: who is in the room, what happened last time, what is still open, and what to ask.
 
+**[Website](https://adrienbalcioglu.github.io/meeting-prep/)**
+
 - **The meeting**: purpose and expected outcome
 - **The people**: role, last exchange, who is waiting for what
 - **The history**: last decisions and open commitments, each with its date
